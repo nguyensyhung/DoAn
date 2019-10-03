@@ -1,0 +1,179 @@
+.feature_user {
+    padding: 10px;
+    background: #026e36;
+    color: #fff;
+    margin-bottom: 10px;
+}
+.addre{
+    margin-top: 700px;
+}
+
+.feature_user .icon {
+    width: 45px;
+    margin-right: 5px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.feature_user .user {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.accountSidebar {
+    float: left;
+    width: 20%;
+}
+
+.feature_user span {
+    font-size: 12px;
+    line-height: 1.5;
+    display: block;
+}
+
+.feature_user h3 {
+    font-size: 15px;
+    line-height: normal;
+    color: #fff;
+}
+
+.link_account {
+    padding: 10px;
+}
+
+ul,
+ol,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    padding: 0;
+    margin: 0;
+}
+
+.link_account li.active {
+    background: #f1f1f1;
+    font-weight: bold;
+}
+
+.link_account li {
+    padding: 5px 5px 5px 15px;
+}
+
+.link_account li a {
+    color: #000;
+}
+
+.ctAccount {
+    float: left;
+    width: 80%;
+    padding: 0px 10px;
+}
+
+.row {
+    clear: both;
+}
+
+.detailAccount {
+    padding: 10px;
+}
+
+.relative {
+    position: relative;
+}
+
+.accountInfo>h3 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    text-transform: uppercase;
+}
+
+.user_info {
+    width: 50%;
+}
+
+.user_info {
+    width: 50%;
+}
+
+.user_info h3,
+.accountNeworder h3,
+.accountAddress>h3,
+#addNewaddress>h3 {
+    font-size: 16px;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.user_info .main {
+    padding: 10px;
+    border: 1px solid #eaeaea;
+    font-size: 12px;
+    margin-bottom: 20px;
+}
+
+.user_info .main li {
+    display: block;
+    line-height: 20px;
+}
+
+.fancy-title {
+    position: relative;
+    margin-bottom: 10px;
+}
+
+.account-table>p {
+    line-height: normal;
+    padding: 0px 15px;
+    font-style: italic;
+}
+
+.address>div {
+    margin-bottom: 20px;
+}
+
+.address_defaul .view_address {
+    border: 1px dashed #090;
+}
+
+.view_address {
+    padding: 10px;
+    border: 1px dashed #ccc;
+    position: relative;
+    width: 500px;
+}
+
+.view_address p.name {
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.view_address p {
+    line-height: 1.4 !important;
+    font-size: 13px;
+}
+
+.address_actions>span {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.address_actions>span {
+    display: inline-block;
+    margin-right: 10px;
+    font-size: 12px;
+    margin-top: 5px;
+}
+
+.address_actions>span a {
+    color: #333;
+    padding: 5px 15px;
+    border: 1px solid #ccc;
+    display: block;
+}

@@ -1,0 +1,144 @@
+*{margin: 0; padding: 0;}
+
+
+.has-error {
+    color: #fb9494;
+}
+a.user {
+    color: white;
+    margin-left: 15px;
+}
+a.dropdown-toggle.user {
+    margin-left: 212px;
+    text-decoration: none;
+}
+.dropdown-menu{
+        margin-left: 209px;
+        min-width: 8rem;
+}
+
+.js-select {
+    width: 300px;
+    border: 1px solid #dad4d4;
+    border-radius: 4px;
+    margin-bottom: 15px;
+}
+
+.select3 {
+    margin-left: 15px;
+}
+
+.select2 {
+    margin-left: 40px;
+}
+
+.select1 {
+    margin-left: 50px;
+}
+
+.right {
+    float: right;
+    width: 554px;
+
+    margin-left: 10px;
+}
+.left {
+    float: left;
+    margin-left:10px
+}
+
+.left img {
+    width: 301px;
+    height: 300px;
+} 
+
+.name {
+    margin-left: 50px;
+}
+input.inputsl {
+    position: absolute;
+    top: 55%;
+    left: 47.5%;
+    border: 1px solid #dad4d4;
+    border-radius: 4px;
+    width: 46px;
+    height: 27px;
+    margin-top: 49px;
+    text-align: center;
+}
+button.btn-outline-info.but {
+    margin-left: 227px;
+    border-radius: 4px;
+    width: 100px;
+    height: 36px;
+}
+.noidungtext{
+    margin-bottom: 30px;
+    color: #554665;
+}
+button.btn-outline-info.but {
+    margin-top: 21px;
+}
+#content-wrapper{
+   margin:0;
+   padding:0;
+   height:100%;
+}
+#container {
+   min-height:100%;
+   position:relative;
+}
+#content-wrapper {
+   padding:10px;
+   padding-bottom:60px;
+}
+#footer-wrapper {
+   position:absolute;
+   bottom:0px;
+   width:100%;  /* Height of the footer */
+}
+
+    ul{
+
+        list-style: none;
+    }
+
+    .menu > ul > li > ul  a {
+        width: 150px;
+        text-transform: uppercase;
+            font-family: lato-r;
+            font-size: 12px;
+            color: #2c3e50;
+            text-decoration: none;
+            transition: 1s;
+    }
+    .menu > ul > li > ul  a:hover {
+        color: #1abc9c;
+    }
+    .menu > ul{
+        height: 40px;
+    }
+    .menu > ul > li{
+        display: inline-block;
+        position: relative;
+    }
+    .menu > ul > li > ul {
+        display: none; /*thêm*/
+        position: absolute;
+        top: 62px;
+        left:17px;
+        z-index: 100;
+        border: 1px   solid #F7F7F9;
+        background-color: #F7F7F9;
+    }
+    .menu > ul > li > ul li{
+        padding: 5px 0;
+    }
+    ul li:last-child{
+        border: none;
+    }
+    /*thêm*/
+    .menu ul li:hover ul{
+        display: block;
+    }
+

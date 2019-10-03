@@ -1,0 +1,44 @@
+@font-face{
+    src:url("{{ asset('fonts/Lato-Light.ttf')}}");
+    font-family: lato-l;
+}
+input.ht{
+    width: 260px;
+    border: 1px solid lightblue;
+    height: 45px;
+    margin-bottom: 7px;
+    border-radius: 5px;
+    }
+.bg{
+    border: 1px solid lightblue;
+    margin-bottom: 7px;
+    border-radius: 5px;
+}
+select.ht{
+	width: 260px;
+    border: 1px solid lightblue;
+    height: 45px;
+    margin-bottom: 7px;
+    border-radius: 5px;
+}
+
+
+input.diachi{
+	width: 545px;
+    border: 1px solid lightblue;
+    height: 45px;
+    margin-bottom: 7px;
+    border-radius: 5px;
+}
+.check_login_css{
+    margin: 0;
+    box-shadow: unset;
+    border: 0px;
+
+}
+.btn_checkout{
+        margin-left: 222px;
+}
+h4.font_h3{
+font-family: lato-l;
+}

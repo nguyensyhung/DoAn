@@ -1,0 +1,17 @@
+#ThumbnailCarousel img {
+    
+}
+
+#ThumbnailCarousel div {
+    height:50px;
+    width:50%;
+}
+
+#ThumbnailCarousel.carousel {
+    padding-top:30px;
+    text-align:center;
+}
+
+.col-md-3 .img-thumbnail {
+    height:50%;
+}
